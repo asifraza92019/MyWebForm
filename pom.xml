@@ -13,6 +13,7 @@
 	<artifactId>MyWebForm</artifactId>
 	<version>alpha</version>
 	<name>MyWebForm</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
