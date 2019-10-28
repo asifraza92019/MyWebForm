@@ -19,7 +19,7 @@ public class EmployeeController {
 		 
 		Employee employee = new Employee();
 		model.addAttribute("employee", employee);
-		int a=10;
+		
 	      
 		return "register";
 	
