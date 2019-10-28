@@ -20,7 +20,7 @@ public class EmployeeController {
 		Employee employee = new Employee();
 		model.addAttribute("employee", employee);
 		
-	           Integer x=20
+	           //Integer x=20
 		return "register";
 	
 	}
